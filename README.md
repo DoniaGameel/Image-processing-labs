@@ -1,2 +1,2 @@
 # Image-processing-labs
-image processing course labs wirh python
+image processing course labs with python
