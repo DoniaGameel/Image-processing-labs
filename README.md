@@ -1,2 +1,2 @@
 # Image-processing-labs
-image processing course labs with python
+image processing course labs using jupyter notebook
